@@ -6,8 +6,7 @@ Este proyecto es una portada de noticias con diseño responsive utilizando Flexb
 
 Puedes ver la portada online en el siguiente enlace:
 
-[Ver Noticias Diarias en GitHub Pages]([https://tu-usuario.github.io/tu-repositorio/](https://davidrprt.github.io/portal_noticias/))
-
+[Ver Noticias Diarias en GitHub Pages](https://davidrprt.github.io/portal_noticias/)
 
 ## Estructura del Proyecto
 
